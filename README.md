@@ -3,7 +3,7 @@
 - [x] Cấu trúc điều khiển
 - [x] Vòng lặp
 - [x] Chuỗi và Mảng
-- [ ] Collectión
+- [ ] Collections
 - [ ] Library
 - [ ] OOP
 - [ ] Multi Thread
