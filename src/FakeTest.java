@@ -23,5 +23,6 @@ public class FakeTest {
                 " có " + countH + " ký tự in hoa," +
                 " có " + countT + " ký tự in thường" +
                 " và có " + countS + " số.");
+        System.out.println();
     }
 }
